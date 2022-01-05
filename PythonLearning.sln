@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "hellopy", "hellopy\hellopy.pyproj", "{BBF3B1B4-EA5E-473E-8E56-119BCA2B6DB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBF3B1B4-EA5E-473E-8E56-119BCA2B6DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF3B1B4-EA5E-473E-8E56-119BCA2B6DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC55EFE1-2285-47CD-94BE-856DA0A77AD0}
+	EndGlobalSection
+EndGlobal
